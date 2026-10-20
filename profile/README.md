@@ -2,6 +2,8 @@
 
 Research lab at Saint Louis University led by **Dr. Flavio Esposito**, Associate Professor of Computer Science. We study **networked and cyber-physical systems** with a focus on **network virtualization and management**, **software-defined networking (SDN)**, **edge/cloud systems**, **wireless networks**, and **learning-driven networking**.
 
+## Useful Links 
+- [Lab Resources](https://github.com/nrg-slu/lab_resources)
 ## What we work on
 - **Programmable & virtualized networks:** SDN/NFV architectures, service/function chaining, intent-based management.
 - **Edge & cyber-physical systems:** real-time orchestration at the edge; applications spanning medicine and precision agriculture.
