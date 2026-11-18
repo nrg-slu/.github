@@ -4,6 +4,7 @@ Research lab at Saint Louis University led by **Dr. Flavio Esposito**, Associate
 
 ## Useful Links 
 - [Lab Resources](https://github.com/nrg-slu/lab_resources)
+  -[Lab Slides](https://github.com/nrg-slu/lab_slides)
 ## What we work on
 - **Programmable & virtualized networks:** SDN/NFV architectures, service/function chaining, intent-based management.
 - **Edge & cyber-physical systems:** real-time orchestration at the edge; applications spanning medicine and precision agriculture.
